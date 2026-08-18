@@ -1,24 +1,27 @@
-[![typograssy](https://typograssy.deno.dev/api?text=naoya25)](https://github.com/kawarimidoll/typograssy)
+<p align="center">
+  <img src="assets/title.svg" alt="Naoya Otsuka">
+</p>
 
+Software engineer
 
+## Recently pushed
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,dart,python,ruby,react,nextjs,flutter)](https://skillicons.dev)
+<!-- RECENT_PUSHES:START -->
+- [trapop](https://github.com/naoya25/trapop) `Rust`
+- [sudocube](https://github.com/naoya25/sudocube) `TypeScript`
+- [earthquake-checker](https://github.com/naoya25/earthquake-checker) `TypeScript`
+- [aura-calendar](https://github.com/naoya25/aura-calendar) `Rust`
+- [snap-ocr](https://github.com/naoya25/snap-ocr) `Rust`
+<!-- RECENT_PUSHES:END -->
 
-![Python](https://img.shields.io/badge/-Python-F9DC3E.svg?logo=python&style=flat)
-![JavaScript](https://img.shields.io/badge/-JavaScript-276DC3.svg?logo=javascript&style=flat)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6.svg?logo=typescript&style=flat)
-![React](https://img.shields.io/badge/-React-4AB197.svg?logo=react&style=flat)
-![Next.js](https://img.shields.io/badge/-Next.js-000000.svg?logo=next.js&style=flat)
-![Flutter](https://img.shields.io/badge/-Flutter-02569B.svg?logo=flutter&style=flat)
-![Ruby](https://img.shields.io/badge/-Ruby-CC342D.svg?logo=ruby&style=flat)
-![Go](https://img.shields.io/badge/-Go-00A7D0.svg?logo=go&style=flat)
+## Recent pull requests
 
+<!-- RECENT_PRS:START -->
+- [release: v1.3.0](https://github.com/naoya25/aura-calendar/pull/45) — naoya25/aura-calendar
+- [fix: 予定を変更したときに変更前の予定が残るバグを修正 (closes #42)](https://github.com/naoya25/aura-calendar/pull/43) — naoya25/aura-calendar
+- [feat: トレイメニューを開閉するグローバルショートカット ^+S を追加 (closes #41)](https://github.com/naoya25/aura-calendar/pull/44) — naoya25/aura-calendar
+- [Feat/settings page](https://github.com/naoya25/mobile-spiner/pull/1) — naoya25/mobile-spiner
+- [Feat/UI](https://github.com/naoya25/kenect/pull/15) — naoya25/kenect
+<!-- RECENT_PRS:END -->
 
-
-## Stats
-![](https://github-readme-stats.vercel.app/api?username=naoya25&show_icons=true&theme=radical)
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=naoya25&theme=gruvbox)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=naoya25&theme=gruvbox)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=naoya25&theme=gruvbox)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=naoya25&theme=gruvbox)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=naoya25&theme=gruvbox&utcOffset=9)
+<sub>The sections above are refreshed daily by a <a href=".github/workflows/update-readme.yml">GitHub Action</a>.</sub>
