@@ -7,8 +7,8 @@ Software engineer
 ## Recently pushed
 
 <!-- RECENT_PUSHES:START -->
-- [naoya25.github.io](https://github.com/naoya25/naoya25.github.io) `JavaScript` — Portfolio — auto-updated from GitHub API
 - [snap-ocr](https://github.com/naoya25/snap-ocr) `Rust`
+- [naoya25.github.io](https://github.com/naoya25/naoya25.github.io) `JavaScript` — Portfolio — auto-updated from GitHub API
 - [shogi-mods](https://github.com/naoya25/shogi-mods) `TypeScript`
 - [earthquake-checker](https://github.com/naoya25/earthquake-checker) `TypeScript`
 - [sudocube](https://github.com/naoya25/sudocube) `TypeScript`
