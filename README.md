@@ -7,11 +7,11 @@ Software engineer
 ## Recently pushed
 
 <!-- RECENT_PUSHES:START -->
+- [gloss](https://github.com/naoya25/gloss) `Swift`
 - [nanpure-app](https://github.com/naoya25/nanpure-app) `TypeScript`
 - [sudocube](https://github.com/naoya25/sudocube) `TypeScript`
 - [moe-full](https://github.com/naoya25/moe-full) `Dart`
 - [nevertwice](https://github.com/naoya25/nevertwice) `Swift`
-- [trapop](https://github.com/naoya25/trapop) `Rust`
 <!-- RECENT_PUSHES:END -->
 
 ## Recent pull requests
