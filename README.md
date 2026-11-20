@@ -8,16 +8,16 @@ Software engineer
 
 <!-- RECENT_PUSHES:START -->
 - [talk-catcher](https://github.com/naoya25/talk-catcher) `Swift`
-- [gloss](https://github.com/naoya25/gloss) `Swift`
+- [aura-calendar](https://github.com/naoya25/aura-calendar) `Rust`
 - [nanpure-app](https://github.com/naoya25/nanpure-app) `TypeScript`
 - [sudocube](https://github.com/naoya25/sudocube) `TypeScript`
-- [moe-full](https://github.com/naoya25/moe-full) `Dart`
+- [nevertwice](https://github.com/naoya25/nevertwice) `Swift`
 <!-- RECENT_PUSHES:END -->
 
 ## Recent pull requests
 
 <!-- RECENT_PRS:START -->
-- [feat(engine): JAPAN AI LLM Gateway を翻訳エンジンとして追加](https://github.com/naoya25/trapop/pull/1) — naoya25/trapop
+- [fix: メニューバー専用アプリにしてトレイメニューが開かない問題を修正](https://github.com/naoya25/aura-calendar/pull/46) — naoya25/aura-calendar
 - [release: v1.3.0](https://github.com/naoya25/aura-calendar/pull/45) — naoya25/aura-calendar
 - [fix: 予定を変更したときに変更前の予定が残るバグを修正 (closes #42)](https://github.com/naoya25/aura-calendar/pull/43) — naoya25/aura-calendar
 - [feat: トレイメニューを開閉するグローバルショートカット ^+S を追加 (closes #41)](https://github.com/naoya25/aura-calendar/pull/44) — naoya25/aura-calendar
